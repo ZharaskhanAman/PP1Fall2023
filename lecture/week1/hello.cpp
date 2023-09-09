@@ -10,7 +10,7 @@ using namespace std;
 
 // return_type function_name() {}
 int main() {
-    cout << "Привет!Hello KBTU!";
+    cout << "Hello KBTU!";
 
     return 0;
 }
